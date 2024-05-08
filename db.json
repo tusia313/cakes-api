@@ -1,0 +1,72 @@
+{
+    "cakes": [
+        {
+            "id": 0,
+            "name": "London cheescake",
+            "polish-name": "Sernik londyński",
+            "web": "https://www.nigella.com/recipes/london-cheesecake",
+            "book": "How to be a domestic goodess",
+            "author": "Nigella Lawson",
+            "description": "This is one of the best sort of recipes — a family hand-me-down. My paternal grandmother instructed me in the art of adding the final layer of sour cream, sugar and vanilla towards the end of the cooking time: and it's true, it does finish it off wonderfully.",
+            "ingredients": [
+                {
+                    "for the base": [
+                        "150 grams digestive biscuits",
+                        "75 grams unsalted butter (melted or very soft)",
+                        "600 grams cream cheese",
+                        "150 grams caster sugar",
+                        "3 large eggs",
+                        "3 large egg yolks",
+                        "1½ tablespoons vanilla extract",
+                        "1½ tablespoons fresh lemon juice"
+                    ]
+                },
+                {
+                    "for the topping": [
+                        "145 millilitres sour cream",
+                        "1 tablespoon caster sugar",
+                        "½ teaspoon vanilla extract"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Carrot cake",
+            "polish-name": "Ciasto marchewkowe",
+            "web": "https://mojewypieki.com/en/recipe/the-best-carrot-cake-ever-2",
+            "book": "www.mojewypieki.pl",
+            "author": "autorka strony 'Moje Wypieki'",
+            "description": "My favourite recipe for homemade carrot cake. This cake is easy to make, incredibly moist, spiced, and topped with a rich, creamy Philadelphia frosting. It is made with walnuts (or pecans), cinnamon, and pineapple. You can prepare this cake without fancy equipment – just bowls, a whisk and a spatula. And it’s the best cake ever – tried and tested many times!",
+            "ingredients": [
+                {
+                    "for the base": [
+                        "2/3 cup plain flour",
+                        "1/2 cup caster sugar",
+                        "1 tsp bicarbonate of soda",
+                        "3/4 tsp baking powder",
+                        "1/2 tsp ground cinnamon",
+                        "1/4 tsp ground cloves",
+                        "1/4 tsp freshly grated nutmeg",
+                        "1/4 tsp ground allspice",
+                        "1/4 tsp salt",
+                        "1/3 cup vegetable oil or walnut oil",
+                        "2 eggs",
+                        "1 cup chopped walnuts",
+                        "1/2 cup chopped", 
+                        "drained pineapple",
+                        "1 cup grated carrot"
+                    ]
+                },
+                {
+                    "for creamy frosting": [
+                        "300 g Philadelphia cream cheese, at room temperature",
+                        "90 g butter, at room temperature",
+                        "1 cup icing sugar, sifted",
+                        "1 tsp vanilla extract or vanilla paste"
+                    ]
+                }
+            ]
+        }
+    ]
+}
