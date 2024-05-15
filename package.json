@@ -1,0 +1,22 @@
+{
+  "name": "cakes-api",
+  "version": "1.0.0",
+  "description": "🧁 Killing two birds with one stone ! API exercise and collecting my fav baking recipes 💗",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tusia313/cakes-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tusia313/cakes-api/issues"
+  },
+  "homepage": "https://github.com/tusia313/cakes-api#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
